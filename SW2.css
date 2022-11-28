@@ -1,0 +1,19 @@
+		#id123 {
+			text-align: center;
+			text-transform: uppercase;
+			text-shadow: 3px 2px 4px white;
+		}
+		#id1 {
+			text-decoration: underline;
+			text-shadow: 3px 2px 4px white
+		}
+		#id2 {
+			text-decoration: underline;
+			text-shadow: 3px 2px 4px white
+		}
+		table {
+			border-color:BLACK ;
+			border-style: solid;
+			border-width: thin;
+			padding: 5px;
+		}
